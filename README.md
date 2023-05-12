@@ -43,23 +43,65 @@ Mi trabajo consistió, una vez más, principalmente en el backend del proyecto. 
 ![image](https://github.com/SprkSmR/portafolio/assets/70298293/37aebb3f-6b5b-4759-b7dd-1f6ae68d84f8)
 
 
+### Integración de seguridad informática en redes y sistemas de software (Agosto-Diciembre 2022)
 
-## Aspiraciones Futuras
+#### BuscanDog: aplicación móvil para Android e iOS
 
-Como estudiante de ciencias de la computación, tengo grandes aspiraciones para el futuro. Algunas de mis metas y áreas de interés incluyen:
+Este proyecto es una aplicación desarrollado en conjunto con la ONG Kairen en Android Studio y en Xcode. Su propósito es el de facilitar el reencuentro entre dueños y sus mascotas por medio de un sistema donde los usuarios pueden reportar hallazgos y extravíos de mascotas, así como ponerse en contacto con otros usuarios. 
 
-1. Continuar mi educación y obtener un título de posgrado en inteligencia artificial y ciberseguridad.
-2. Contribuir activamente a la investigación en inteligencia artificial, particularmente en el campo del comportamiento de agentes en entornos dinámicos.
-3. Trabajar en un equipo dedicado a la ciberseguridad, colaborando en proyectos de protección de datos y seguridad de sistemas.
-4. Explorar oportunidades en la industria del desarrollo de videojuegos, aplicando mis habilidades técnicas y conocimientos en inteligencia artificial para crear experiencias de juego innovadoras y desafiantes.
+![image8](https://github.com/SprkSmR/portafolio/assets/70298293/dec4958e-0ca1-41cf-87ea-2c47c385ec30)
 
-Estoy emocionado por lo que el futuro me depara y ansioso por seguir aprendiendo y creciendo en estas áreas emocionantes de la informática.
+[Documento resumiendo el proyecto](https://github.com/SprkSmR/portafolio/files/11460226/1666403703000A01732097_Evidencia1_ISIRSS.pdf)
 
-¡Gracias por visitar mi portafolio!
+Mi trabajo fue el desarrollo de la versión de iOS de la aplicación. Trabajé de forma colaborativa junto con otro compañero en todo momento y juntos desarrollamos los diferentes aspectos de la aplicación. Juntos implementamos los servicios de geolocalización, la lógica y flujo del sistema, y el diseño de interfaces y su implementación. También diseñé la base de datos en Firebase y la autenticación de los usuarios.
 
-## Contacto
+##### Más capturas del proyecto
+![image9](https://github.com/SprkSmR/portafolio/assets/70298293/a7ced4ec-df7d-4295-8ab9-1e822f2c5dd9)
+![image14](https://github.com/SprkSmR/portafolio/assets/70298293/bc78320f-44d0-4232-87f5-02973d37c731)
 
-Si deseas obtener más información o discutir oportunidades de colaboración, no dudes en contactarme:
 
-- Correo electrónico: [correo@example.com](mailto:correo@example.com)
-- LinkedIn: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/mi-usuario)
+### Integración de seguridad informática en redes y sistemas de software (Febrero-Junio 2022)
+
+#### Simulación de instalación de red para concurso de programación
+
+En este proyecto de redes fuimos encomendados con la instalación hipotética de redes para la olimpiada mexicana de informática, considerando un número determinado de participantes y los requisitos de acceso establecidos. Analizamos a detalle localizaciones particulares de la institución y planificamos la instalación física considerando características ambientales, económicas y también de rendimiento.
+
+[Documento resumiendo el proyecto](https://github.com/SprkSmR/portafolio/files/11460294/1655528394000ActReto06ReporteFinal.docx.pdf)
+
+En este proyecto me dividí entre todos los aspectos. Fui a las ubicaciones para realizar mediciones, también consulté planos e investigué cables y dispositivos necesarios para la instalación. También me centré sobre todo en las labores técnicas, como en diseñar el _subnetteo_ que permitiera las especificaciones de la red dadas, considerando permisos y número de usuarios. Finalmente, implementé este diseño en Packet Tracer, configurando cada uno de los dispositivos para que la red estuviera operativa.
+
+
+## ✨ Otras experiencias
+
+## Liminal Studios (Abril 2021 - A la fecha)
+
+Es un proyecto independiente desarrollado por mí junto con algunos amigos que busca crear un ambiente donde podamos aprender a desarrollar videojuegos en conjunto, mientras desarrollamos nuestros propios proyectos y participamos en diferentes Game Jams. Hasta el momento hemos desarrollado diferentes proyectos para este tipo de eventos utilizando los motores Unity y Godot.
+
+[Link al repositorio de Liminal Studios](https://github.com/Liminal-studios)
+
+
+## 🚧 Desafíos más importantes
+
+Los retos más frecuentes y determinantes que he tenido que aforntar han estado relacionados especialmente con el tiempo para realizar estos proyectos y lo nuevo de estas tecnologías. 
+
+En primer lugar, el tiempo ha sido determinante porque he tenido que balancear estos proyectos con otras actividades dentro y fuera de lo académico. También ha sido necesario balancear requerimentos con el tiempo para desarrollarlos, priorizando aquellos más importantes y dejando de lado los que añadieran el menor valor al proyecto. De esta forma, me he coordinado con mis equipos para entregarlos siempre en tiempo y forma. 
+
+Así mismo, ya que hemos tenido que trabajar siempre con tecnologías más allá de nuestros conocimientos en ese momento, ha involucrado un proceso de aprendizaje autodidacta, práctica y mucha dedicación. Esto siempre ha sido un factor a considerar, ya que adicional al tiempo normal de desarrollo, tamibén se vuelve necesario considerar el tiempo para aprender los conceptos antes. 
+
+Por último, también ha sido importante para mí balancear aquellas labores que más me gustan (como el trabajo en backend y en bases de datos) con las que menos prefiero (como diseño y frontend), ya que es importante un aprendizaje holístico.
+
+## 🏁 Mis metas y aspiraciones a futuro
+
+Me gustaría desarrollar mejor mis habilidades para la investigación, así como mis conocimientos técnicos. También me gustaría ahondar en la integliencia artificial y la ciberseguridad particularmente. Aspiro a desarrollar otro proyecto relacionado con sistemas multiagentes y replicar comportamientos más complejos e interesantes todavía. 
+
+Mi meta es poder contribuir de esta forma al avance científico, incluso estudiar un posgrado al graduarme y utilizar mis conocimientos para desarrollar nuevos conceptos y artículos, e incluso enseñar mis conocimientos a otros. 
+
+Me mantengo abierto al aprendizaje de nuevas tecnologías y experiencias donde pueda demostrar mis conocimientos y aprender otros nuevos.
+
+¡Muchas gracias por visitar mi portafolio!
+
+## 📱 Contacto
+
+- Correo electrónico: [omjiar7@gmail.com](mailto:omjiar7@gmail.com)
+- LinkedIn: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/omjiar7/)
+- TryHackme: [Link a mi perfil hacker](https://tryhackme.com/p/WinterNeuro)
