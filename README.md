@@ -14,11 +14,11 @@ Esta unidad de formación ha sido por mucho mi favorita, ya que en ella pude apr
 
 [Link al repositorio general](https://github.com/aleubeto/sistemasMultiagentes_graficasComputacionales/tree/main)
 
-#### Evidencia 1: robots de almacenaje de cajas
+#### ====== Evidencia 1: robots de almacenaje de cajas ======
 
 En esta actividad la tarea fue desarrollar un sistema donde los agentes representaran robots en un almacen y su trabajo fuera organizar las cajas en pilas de hasta 5 cajas máximo en áreas específicas. Para ello, debían trabajar en equipo empleando alguna estrategia determinada. Esta simulación fue desarrollada empleando el framework Mesa para Python y utilizando OpenGL para la representación en 3D.
 
-![Captura general del proyecto](https://github.com/SprkSmR/portafolio/assets/70298293/8d7e5b8a-0cdd-4da9-9fa7-d8b065586291)¿
+![Captura general del proyecto](https://github.com/SprkSmR/portafolio/assets/70298293/8d7e5b8a-0cdd-4da9-9fa7-d8b065586291)
 
 [Documento resumiendo el proyecto](https://github.com/SprkSmR/portafolio/files/11460082/Equipo5_Evidencia.1.Actividad.Integradora.pdf)
 
@@ -28,7 +28,7 @@ Mi trabajo consistió principalmente en el backend del proyecto. Fue mi labor de
 ![image](https://github.com/SprkSmR/portafolio/assets/70298293/a051fda7-4c89-4623-b158-1d6c4058e05e)
 ![image](https://github.com/SprkSmR/portafolio/assets/70298293/c08a4f8d-32c4-46aa-8f29-1c5880ca331e)
 
-#### Evidencia 2: simulación de tráfico de una rotonda en Paris
+#### ====== Evidencia 2: simulación de tráfico de una rotonda en Paris ======
 
 En esta actividad fue necesario simular el tráfico observable en una vía pública, en este caso la rotonda de Paris en el Arco del Triunfo. Esta simulación requería que se observara un comportamiento realista en los automóviles, respetando las leyes de tránsito, evitando colisiones e incluso imaginando un entorno ideal sin accidentes ni errores. 
 
@@ -45,7 +45,7 @@ Mi trabajo consistió, una vez más, principalmente en el backend del proyecto. 
 
 ### Integración de seguridad informática en redes y sistemas de software (Agosto-Diciembre 2022)
 
-#### BuscanDog: aplicación móvil para Android e iOS
+#### ====== BuscanDog: aplicación móvil para Android e iOS ======
 
 Este proyecto es una aplicación desarrollado en conjunto con la ONG Kairen en Android Studio y en Xcode. Su propósito es el de facilitar el reencuentro entre dueños y sus mascotas por medio de un sistema donde los usuarios pueden reportar hallazgos y extravíos de mascotas, así como ponerse en contacto con otros usuarios. 
 
